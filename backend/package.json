@@ -1,0 +1,13 @@
+{
+  "name": "jewellery-backend",
+  "version": "1.0.0",
+  "description": "Jewellery shop backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
